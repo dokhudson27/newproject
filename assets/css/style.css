@@ -37,7 +37,7 @@ margin: 0 0 0 9px;
 
 .menubar {
   width: 900px;
-  height: 46px;
+  height: 25px;
 
 }
 
@@ -57,7 +57,7 @@ ul.menu li {
 ul.menu li a {
   font: normal 100% 'trebuchet ms', sans-serif;
   display: block;
-  height: 20px;
+  height: 15px;
   padding: 6px 35px 5px 28px;
   color: #fff;
   text-decoration: none;
