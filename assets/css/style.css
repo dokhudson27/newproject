@@ -92,3 +92,14 @@ ul.menu li a:hover {
   float: right;
   width: 224px;
 }
+
+.sidebar {
+  float: right;
+  width: 222px;
+  padding: 5%;
+  margin: 0 0 16px 0;
+  border: solid 1px #f2f2f2;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  
+}
