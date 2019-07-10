@@ -79,3 +79,16 @@ ul.menu li a:hover {
   color: #e4ec04;
   
 }
+
+.site_content {
+  width: 880px;
+  overflow: hidden;
+  margin: 20px auto 0 auto;
+  background-color: #999;
+
+}
+
+.sitebar_container {
+  float: right;
+  width: 224px;
+}
