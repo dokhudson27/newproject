@@ -4,6 +4,12 @@
 
 }
 
+input[type="text"], input[type="password"], input[type="search"] {
+  color: #5d5d5d;
+  width: 60%;
+  padding: 8px;
+}
+
 
 .header {
   background-color: darkslateblue;
