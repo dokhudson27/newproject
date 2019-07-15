@@ -42,6 +42,23 @@ h2 {
   font-size: 140%;
 }
 
+a, a:hover {
+  outline: none;
+  text-decoration: underline;
+  color: #aeb002;
+}
+
+ul {
+  margin: 2px  0 22px 17px;
+
+}
+
+ul li {
+  margin: 0 0 6px 0;
+  padding: 0 0 4px 5px;
+  line-height: 1.5em;
+}
+
 .header {
   background-color: darkslateblue;
   height: 155px;
