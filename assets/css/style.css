@@ -153,13 +153,13 @@ ul.menu li a:hover {
 }
 
 .sidebar ul {
-  margin: 0%;
+  margin: 0;
 
 }
 
 .sidebar ul li {
   list-style-type: none;
-  margin: 0 0 0 0;;
+  margin: 0 0 0 0;
 }
 
 .sidebar .rating_sidebar {
