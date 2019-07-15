@@ -4,6 +4,19 @@
 
 }
 
+body {
+  font-size: 1.2em;
+  background-color: #fff;
+  color: #555;
+}
+
+p {
+  padding: 0 0 20px 0;
+  line-height: 1.7em;
+
+}
+  
+
 input[type="text"], input[type="password"], input[type="search"] {
   color: #5d5d5d;
   width: 60%;
@@ -137,4 +150,18 @@ ul.menu li a:hover {
 .sidebar h2 {
   color: #136cb2;
 
+}
+
+.sidebar ul {
+  margin: 0%;
+
+}
+
+.sidebar ul li {
+  list-style-type: none;
+  margin: 0 0 0 0;;
+}
+
+.sidebar .rating_sidebar {
+  float: right;
 }
